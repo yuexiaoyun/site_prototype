@@ -1,0 +1,15 @@
+<Modules>
+  <Module PersistentId="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D" ModuleId="QuaintHouse.ElasticSearch" />
+  <Module PersistentId="4B14936B-D8E4-4C79-A343-741CAFAA9029" ModuleId="QuaintHouse.REST" />
+  <Module PersistentId="C41D5737-46F0-4938-82B0-B0A86FA7E536" ModuleId="TestProject" />
+  <Module PersistentId="91DDF29B-1D29-44D4-AD76-9BA179776E7D" ModuleId="Core" />
+  <Module PersistentId="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7" ModuleId="Web" />
+  <Module PersistentId="8F81C914-ED0D-46B8-9B8B-151C7578EB12" ModuleId="QuaintHouse.Http" />
+  <Module PersistentId="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A" ModuleId="QuaintHouse.Scheduler" />
+  <Module PersistentId="65D0750C-59C5-42B1-AA31-01720AA14A47" ModuleId="site" />
+  <Module PersistentId="Quartz, Version=2.1.2.400, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4" ModuleId="Quartz" />
+  <Module PersistentId="Quartz, Version=1.0.0.2, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4" ModuleId="Quartz_1" />
+  <Module PersistentId="950C3175-DD17-4A06-8371-55DC18C23DA3" ModuleId="Business" />
+  <Module PersistentId="5E6679B0-A834-4E31-BE42-76B1963E531A" ModuleId="DataAccess" />
+  <Module PersistentId="64C9D526-7734-4080-8856-6D4783F7A40B" ModuleId="Util" />
+</Modules>

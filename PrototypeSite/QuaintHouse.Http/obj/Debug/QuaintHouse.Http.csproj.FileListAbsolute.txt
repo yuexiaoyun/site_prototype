@@ -1,0 +1,5 @@
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.Http\bin\Debug\QuaintHouse.Http.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.Http\bin\Debug\QuaintHouse.Http.pdb
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.Http\obj\Debug\ResolveAssemblyReference.cache
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.Http\obj\Debug\QuaintHouse.Http.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.Http\obj\Debug\QuaintHouse.Http.pdb

@@ -1,0 +1,11 @@
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\QuaintHouse.ElasticSearch.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\QuaintHouse.ElasticSearch.pdb
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\log4net.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\Newtonsoft.Json.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\QuaintHouse.Http.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\QuaintHouse.REST.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\QuaintHouse.Http.pdb
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\bin\Debug\QuaintHouse.REST.pdb
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\obj\Debug\ResolveAssemblyReference.cache
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\obj\Debug\QuaintHouse.ElasticSearch.dll
+E:\Saturni\prototype\PrototypeSite\QuaintHouse.ElasticSearch\obj\Debug\QuaintHouse.ElasticSearch.pdb

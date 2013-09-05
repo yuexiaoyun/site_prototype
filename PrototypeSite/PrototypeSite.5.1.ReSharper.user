@@ -1,0 +1,516 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Container`0" priority="18" />
+      <Item value="private" priority="20" />
+      <Item value="uContainer" priority="22" />
+      <Item value="new" priority="29" />
+      <Item value="typeof" priority="16" />
+      <Item value="this" priority="4" />
+      <Item value="public" priority="56" />
+      <Item value="const" priority="2" />
+      <Item value="string" priority="35" />
+      <Item value="IUnityContainer`0" priority="0" />
+      <Item value="unityContainer" priority="1" />
+      <Item value="CONTAINER" priority="0" />
+      <Item value="name" priority="10" />
+      <Item value="void" priority="26" />
+      <Item value="null" priority="13" />
+      <Item value="namespace" priority="0" />
+      <Item value="return" priority="22" />
+      <Item value="Type`0" priority="18" />
+      <Item value="object" priority="14" />
+      <Item value="t" priority="0" />
+      <Item value="obj" priority="4" />
+      <Item value="type" priority="15" />
+      <Item value="LifetimeManager`0" priority="3" />
+      <Item value="lifetimeManager" priority="6" />
+      <Item value="interfaceClass" priority="3" />
+      <Item value="implementationClass" priority="3" />
+      <Item value="Interception`0" priority="2" />
+      <Item value="VirtualMethodInterceptor`0" priority="3" />
+      <Item value="int" priority="15" />
+      <Item value="AccessViolationException`0" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;T&gt;" priority="0" />
+      <Item value="virtual" priority="9" />
+      <Item value="container" priority="26" />
+      <Item value="HttpContext`0" priority="1" />
+      <Item value="protected" priority="8" />
+      <Item value="abstract" priority="1" />
+      <Item value="static" priority="14" />
+      <Item value="nameValueCollection" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="key" priority="1" />
+      <Item value="appSettings" priority="0" />
+      <Item value="RegisterParamsInConfig`0" priority="0" />
+      <Item value="DatabaseDelegator`0" priority="5" />
+      <Item value="database" priority="0" />
+      <Item value="DatabaseFactory`0" priority="2" />
+      <Item value="Database`0" priority="1" />
+      <Item value="if" priority="15" />
+      <Item value="dbName" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="LogManager`0" priority="2" />
+      <Item value="BaseData`0" priority="0" />
+      <Item value="value" priority="2" />
+      <Item value="_tiemout" priority="2" />
+      <Item value="out" priority="0" />
+      <Item value="dbCommand" priority="20" />
+      <Item value="_database" priority="4" />
+      <Item value="Dependency" priority="0" />
+      <Item value="Timeout" priority="1" />
+      <Item value="result" priority="7" />
+      <Item value="try" priority="7" />
+      <Item value="finally" priority="5" />
+      <Item value="DateTime`0" priority="4" />
+      <Item value="_startTime" priority="1" />
+      <Item value="DateTime" priority="0" />
+      <Item value="_endTime" priority="1" />
+      <Item value="log4net" priority="1" />
+      <Item value="long" priority="1" />
+      <Item value="stopWatch" priority="7" />
+      <Item value="StopWatch" priority="3" />
+      <Item value="StopWatch`0" priority="3" />
+      <Item value="Logger" priority="4" />
+      <Item value="DbCommand`0" priority="3" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="builder" priority="3" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="ignore" priority="0" />
+      <Item value="index" priority="2" />
+      <Item value="parameter" priority="1" />
+      <Item value="GetParams`0" priority="1" />
+      <Item value="Data" priority="0" />
+      <Item value="dataSet" priority="8" />
+      <Item value="DataSet" priority="1" />
+      <Item value="_timeout" priority="1" />
+      <Item value="ConversionUtil`0" priority="1" />
+      <Item value="GetDataSetSummary`0" priority="0" />
+      <Item value="DataSet`0" priority="2" />
+      <Item value="params" priority="1" />
+      <Item value="columnInfos" priority="0" />
+      <Item value="DataTable`0" priority="0" />
+      <Item value="dataTable" priority="2" />
+      <Item value="DataTable" priority="0" />
+      <Item value="BATCHTABLENAME" priority="1" />
+      <Item value="DataColumn`0" priority="0" />
+      <Item value="column" priority="1" />
+      <Item value="DataColumn" priority="0" />
+      <Item value="columnInfo" priority="1" />
+      <Item value="Standard" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="internal" priority="0" />
+      <Item value="Stack" priority="0" />
+      <Item value="class" priority="2" />
+      <Item value="ReturnValue`0" priority="0" />
+      <Item value="InitCore`0" priority="1" />
+      <Item value="RegisterDatabase`0" priority="0" />
+      <Item value="InitSite`0" priority="0" />
+      <Item value="Attribute`0" priority="1" />
+      <Item value="AttributeTargets`0" priority="2" />
+      <Item value="AttributeUsage" priority="1" />
+      <Item value="AllowMultiple" priority="1" />
+      <Item value="false" priority="2" />
+      <Item value="assembly" priority="0" />
+      <Item value="Assembly`0" priority="0" />
+      <Item value="assemblyName" priority="0" />
+      <Item value="ServiceAttribute`0" priority="0" />
+      <Item value="true" priority="4" />
+      <Item value="Length" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="DataAccessAttribute`0" priority="0" />
+      <Item value="XmlSerializer" priority="1" />
+      <Item value="o" priority="1" />
+      <Item value="s" priority="2" />
+      <Item value="MemoryStream" priority="2" />
+      <Item value="ms" priority="7" />
+      <Item value="writer" priority="3" />
+      <Item value="XmlWriter`0" priority="3" />
+      <Item value="MemoryStream`0" priority="2" />
+      <Item value="xmlWriterSettings" priority="5" />
+      <Item value="XmlWriterSettings" priority="0" />
+      <Item value="Encoding`0" priority="2" />
+      <Item value="xmlString" priority="1" />
+      <Item value="XmlSerializer`0" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="buffer" priority="0" />
+      <Item value="XmlReader`0" priority="1" />
+      <Item value="reader" priority="2" />
+      <Item value="XmlTextReader`0" priority="0" />
+      <Item value="HttpSessionStateContainer`0" priority="0" />
+      <Item value="Container" priority="0" />
+      <Item value="initializer" priority="1" />
+      <Item value="WebInitializer" priority="0" />
+      <Item value="Application" priority="3" />
+      <Item value="as" priority="5" />
+      <Item value="dataRow" priority="3" />
+      <Item value="bean" priority="1" />
+      <Item value="property" priority="10" />
+      <Item value="decimal" priority="1" />
+      <Item value="continue" priority="1" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+      <Item value="BaseManager`0" priority="0" />
+      <Item value="UserData`0" priority="0" />
+      <Item value="userData" priority="1" />
+      <Item value="UserManager`0" priority="1" />
+      <Item value="User" priority="0" />
+      <Item value="userManager" priority="2" />
+      <Item value="IHttpHandler`0" priority="0" />
+      <Item value="Activator`0" priority="0" />
+      <Item value="IHttpHandlerFactory`0" priority="4" />
+      <Item value="pageHandlerFactory" priority="5" />
+      <Item value="thr" priority="1" />
+      <Item value="ApplicationException`0" priority="1" />
+      <Item value="context" priority="8" />
+      <Item value="requestType" priority="0" />
+      <Item value="url" priority="0" />
+      <Item value="pathTranslated" priority="0" />
+      <Item value="BuildUpPage`0" priority="0" />
+      <Item value="pageHandler" priority="1" />
+      <Item value="CreateFactory`0" priority="1" />
+      <Item value="handler" priority="0" />
+      <Item value="HttpApplication`0" priority="4" />
+      <Item value="page" priority="1" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="UrlRewritterModule`0" priority="0" />
+      <Item value="RewriteUrl`0" priority="0" />
+      <Item value="EventArgs`0" priority="1" />
+      <Item value="send" priority="0" />
+      <Item value="GlobalContext`0" priority="0" />
+      <Item value="Config" priority="0" />
+      <Item value="XmlConfigurator`0" priority="0" />
+      <Item value="FileInfo" priority="0" />
+      <Item value="Server" priority="0" />
+      <Item value="_default`0" priority="0" />
+      <Item value="logger" priority="4" />
+      <Item value="sender" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="exception" priority="5" />
+      <Item value="LogException`0" priority="0" />
+      <Item value="Response" priority="0" />
+      <Item value="orginalPath" priority="5" />
+      <Item value="paramsIndex" priority="1" />
+      <Item value="pageIndex" priority="1" />
+      <Item value="pathSegment" priority="1" />
+      <Item value="newPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.IUnityContainer">
+      <Item value="RegisterInstance`0" priority="5" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="RegisterType`0" priority="5" />
+      <Item value="AddNewExtension`1" priority="0" />
+      <Item value="Configure`0" priority="3" />
+      <Item value="Resolve`0" priority="2" />
+      <Item value="BuildUp`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.Ioc.Container">
+      <Item value="uContainer" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="RegisterInstance`0" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="RegisterLifeCycle`0" priority="0" />
+      <Item value="RegisterType`0" priority="0" />
+      <Item value="GetInstance`1" priority="0" />
+      <Item value="BuildUp`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.InterceptionExtension.Interception">
+      <Item value="SetInterceptorFor`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameValueCollection">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Practices.EnterpriseLibrary.Data.DatabaseFactory">
+      <Item value="CreateDatabase`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.Data.DatabaseDelegator">
+      <Item value="dbName" priority="0" />
+      <Item value="CreateDatabase`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="Empty" priority="0" />
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetLogger`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.EnterpriseLibrary.Data.Database">
+      <Item value="ExecuteNonQuery`0" priority="0" />
+      <Item value="ExecuteDataSet`0" priority="0" />
+      <Item value="ExecuteScalar`0" priority="0" />
+      <Item value="UpdateDataSet`0" priority="0" />
+      <Item value="GetSqlStringCommand`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbCommand">
+      <Item value="CommandTimeout" priority="3" />
+      <Item value="CommandText" priority="1" />
+      <Item value="Parameters" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Subtract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.Util.StopWatch">
+      <Item value="End`0" priority="3" />
+      <Item value="ElapseMs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Info`0" priority="4" />
+      <Item value="Debug`0" priority="1" />
+      <Item value="Error`0" priority="1" />
+      <Item value="Fatal`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="4" />
+      <Item value="toar" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbParameter">
+      <Item value="ParameterName" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Core.Util.ConversionUtil">
+      <Item value="To`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+      <Item value="GetType`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.Data.ColumnInfo">
+      <Item value="ColumnName" priority="0" />
+      <Item value="ColumnType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Columns" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTableCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AttributeTargets">
+      <Item value="Method" priority="1" />
+      <Item value="Class" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="IsClass" priority="1" />
+      <Item value="GetCustomAttributes`0" priority="1" />
+      <Item value="GetProperties`0" priority="0" />
+      <Item value="IsPrimitive" priority="0" />
+      <Item value="BaseType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize`0" priority="1" />
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlWriter">
+      <Item value="Create`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriterSettings">
+      <Item value="Indent" priority="0" />
+      <Item value="IndentChars" priority="0" />
+      <Item value="Encoding" priority="0" />
+      <Item value="OmitXmlDeclaration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetString`0" priority="0" />
+      <Item value="GetBytes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="0" />
+      <Item value="LastIndexOf`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Substring`0" priority="1" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriter">
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="CanReadBinaryContent" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:site.Base.WebInitializer">
+      <Item value="Init`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpApplicationState">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Core.Ioc.Container">
+      <Item value="CONTAINER" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="0" />
+      <Item value="IsSpecialName" priority="0" />
+      <Item value="PropertyType" priority="7" />
+      <Item value="SetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="Table" priority="0" />
+      <Item value="IsNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataAccess.UserData">
+      <Item value="GetUserCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Business.UserManager">
+      <Item value="GetUserCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.IHttpHandlerFactory">
+      <Item value="GetHandler`0" priority="0" />
+      <Item value="ReleaseHandler`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Application" priority="0" />
+      <Item value="RewritePath`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.IHttpHandler">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpApplication">
+      <Item value="BeginRequest" priority="0" />
+      <Item value="Request" priority="1" />
+      <Item value="Error" priority="0" />
+      <Item value="Server" priority="0" />
+      <Item value="Context" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Path" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.Config.XmlConfigurator">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
+      <Item value="MapPath`0" priority="0" />
+      <Item value="GetLastError`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="InnerException" priority="1" />
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Redirect`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:ErrorPage.aspx" caret="462" fromTop="11" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRuleEngine.cs" caret="142" fromTop="8" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Log/f:LoggingModule.cs" caret="298" fromTop="9" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="838" fromTop="19" />
+      <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/d:Util/f:BeanUtil.cs" caret="0" fromTop="0" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:default.aspx.cs" caret="461" fromTop="8" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Global.asax.cs" caret="1137" fromTop="31" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Ioc/f:PageHttpHandler.cs" caret="0" fromTop="0" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Ioc/f:UnityHttpHandlerFactory.cs" caret="609" fromTop="9" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Web.config" caret="854" fromTop="20" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:CryptographyUtility.cs" caret="113" fromTop="5" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:RSACryptoService.cs" caret="593" fromTop="22" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:ObjectUtility.cs" caret="100" fromTop="4" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:HashUtility.cs" caret="84" fromTop="0" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:DataConvert.cs" caret="56" fromTop="0" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:AES.cs" caret="102" fromTop="5" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:StopWatch.cs" caret="27" fromTop="2" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Config/f:log4net.xml.config" caret="900" fromTop="18" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:StringUtils.cs" caret="121" fromTop="0" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:TripleDes.cs" caret="84" fromTop="0" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:XMLUtility.cs" caret="117" fromTop="0" />
+      <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/f:BaseManager.cs" caret="0" fromTop="0" />
+      <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/f:UserManager.cs" caret="0" fromTop="0" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Base/f:WebInitializer.cs" caret="227" fromTop="10" />
+      <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/d:Data/f:BaseData.cs" caret="314" fromTop="5" />
+      <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/d:Util/f:ConversionUtil.cs" caret="449" fromTop="6" />
+      <File id="5E6679B0-A834-4E31-BE42-76B1963E531A/f:UserData.cs" caret="178" fromTop="8" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/f:BaseWebInitializer.cs" caret="446" fromTop="12" />
+      <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/d:Ioc/f:Container.cs" caret="3692" fromTop="115" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Global.asax.cs" caret="427" fromTop="12" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Config/f:log4net.xml.config" caret="1308" fromTop="26" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Config/f:log4net.xml.config" caret="2959" fromTop="29" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Config/f:log4net.xml.config" caret="2809" fromTop="20" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Log/f:LoggingModule.cs" caret="853" fromTop="31" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Global.asax.cs" caret="1323" fromTop="18" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:ErrorPage.aspx" caret="462" fromTop="11" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Config/f:log4net.xml.config" caret="904" fromTop="18" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Log/f:LoggingModule.cs" caret="402" fromTop="16" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Log/f:LoggingModule.cs" caret="298" fromTop="9" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRuleEngine.cs" caret="142" fromTop="8" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="432" fromTop="19" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="302" fromTop="11" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="859" fromTop="22" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="1066" fromTop="28" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="884" fromTop="22" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="13" fromTop="0" />
+      <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:UrlRewritter/f:UrlRewritterModule.cs" caret="1278" fromTop="30" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Web.config" caret="2267" fromTop="28" />
+      <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Global.asax.cs" caret="1137" fromTop="31" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:AES.cs" caret="102" fromTop="5" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:CryptographyUtility.cs" caret="113" fromTop="5" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:DataConvert.cs" caret="56" fromTop="3" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:HashUtility.cs" caret="84" fromTop="4" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:ObjectUtility.cs" caret="100" fromTop="4" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:RSACryptoService.cs" caret="152" fromTop="7" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:StopWatch.cs" caret="27" fromTop="2" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:StringUtils.cs" caret="121" fromTop="5" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:TripleDes.cs" caret="84" fromTop="4" />
+      <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:XMLUtility.cs" caret="117" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6.1\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

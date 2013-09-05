@@ -1,0 +1,65 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Request/f:BulkRequest.cs" caret="284" fromTop="10" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Action/d:Search/f:SearchAction.cs" caret="2775" fromTop="23" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Interceptor/f:LoggingInterceptor.cs" caret="0" fromTop="0" />
+    <File id="C41D5737-46F0-4938-82B0-B0A86FA7E536/d:ElasticSearch/f:JsonSerializerTest.cs" caret="14317" fromTop="26" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Action/d:Search/f:SearchActionResult.cs" caret="0" fromTop="0" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:IAction.cs" caret="186" fromTop="8" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:SampleJob.cs" caret="236" fromTop="10" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:ContainerFactory.cs" caret="0" fromTop="0" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Schedule/f:TriggerBuilder.cs" caret="0" fromTop="0" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/f:ActionContext.cs" caret="0" fromTop="0" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Schedule/f:JobItem.cs" caret="212" fromTop="9" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Schedule/f:JobLoader.cs" caret="766" fromTop="24" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Schedule/f:Scheduler.cs" caret="5635" fromTop="25" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:Job.cs" caret="732" fromTop="22" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:ExceptionMailActionConfiguration.cs" caret="468" fromTop="20" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:IConfiguration.cs" caret="1694" fromTop="28" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:SampleActionConfiguration.cs" caret="952" fromTop="16" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/f:ActionProxy.cs" caret="693" fromTop="10" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/f:ActionBuilder.cs" caret="590" fromTop="18" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/f:ActionFramework.cs" caret="1281" fromTop="26" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Schedule/f:JobStore.cs" caret="0" fromTop="0" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:SchedulerInitializer.cs" caret="795" fromTop="24" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:SampleAction.cs" caret="669" fromTop="20" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:ExceptionMailAction.cs" caret="237" fromTop="9" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:ExceptionMailJob.cs" caret="152" fromTop="7" />
+    <File id="8F81C914-ED0D-46B8-9B8B-151C7578EB12/f:Get.cs" caret="146" fromTop="8" />
+    <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/f:RequestContext.cs" caret="728" fromTop="26" />
+    <File id="0FC8991A-BF1A-4EE2-B377-3F0BB6854AD7/d:Module/f:RequestContextInitModule.cs" caret="573" fromTop="27" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/f:ElasticSearchClient.cs" caret="899" fromTop="8" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/f:UserManager.cs" caret="408" fromTop="20" />
+    <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/d:Interceptor/f:CacheCallHandler.cs" caret="7064" fromTop="26" />
+    <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:default.aspx.cs" caret="1123" fromTop="29" />
+    <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:MailFactory.cs" caret="431" fromTop="8" />
+    <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:StringUtils.cs" caret="8309" fromTop="32" />
+    <File id="64C9D526-7734-4080-8856-6D4783F7A40B/f:MailManager.cs" caret="6675" fromTop="23" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:SampleAction.cs" caret="464" fromTop="13" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:ExceptionMailAction.cs" caret="379" fromTop="13" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:ExceptionMailJob.cs" caret="306" fromTop="12" />
+    <File id="950C3175-DD17-4A06-8371-55DC18C23DA3/d:Schedule/f:ExceptionMailActionConfiguration.cs" caret="320" fromTop="12" />
+    <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:Global.asax.cs" caret="729" fromTop="23" />
+    <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/f:JobStore.config" caret="291" fromTop="11" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:SchedulerInitializer.cs" caret="3910" fromTop="11" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Log/f:ILog.cs" caret="294" fromTop="11" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Log/f:FileLogger.cs" caret="4397" fromTop="21" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Interceptor/f:ExceptionInterceptor.cs" caret="1393" fromTop="22" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Log/f:ActionLog.cs" caret="207" fromTop="9" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/f:IConfiguration.cs" caret="1576" fromTop="25" />
+    <File id="65D0750C-59C5-42B1-AA31-01720AA14A47/d:Config/f:CommonSetting.config" caret="982" fromTop="21" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Interceptor/f:LoggingInterceptor.cs" caret="2621" fromTop="38" />
+    <File id="AEB2C6F4-ED6C-4C99-BC7A-D0BAE0762C8A/d:Action/d:Log/f:ActionLogData.cs" caret="434" fromTop="17" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Utils/f:JsonUtility.cs" caret="832" fromTop="23" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Request/d:Converter/f:BulkRequestConverter.cs" caret="1520" fromTop="27" />
+    <File id="91DDF29B-1D29-44D4-AD76-9BA179776E7D/d:Cache/f:MemCacheHelper.cs" caret="418" fromTop="17" />
+    <File id="C41D5737-46F0-4938-82B0-B0A86FA7E536/d:Core/d:Cache/f:MemcacheHelperTest.cs" caret="554" fromTop="17" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Action/d:Search/f:SearchActionResult.cs" caret="1108" fromTop="18" />
+    <File id="C41D5737-46F0-4938-82B0-B0A86FA7E536/d:ElasticSearch/f:JsonSerializerTest.cs" caret="16325" fromTop="24" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Action/d:Search/f:SearchAction.cs" caret="2784" fromTop="27" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/d:Action/f:IAction.cs" caret="207" fromTop="9" />
+    <File id="DD46B5ED-7B3B-4065-A964-D68BD6BAC87D/f:ElasticSearchClient.cs" caret="9656" fromTop="23" />
+  </RecentEdits>
+</RecentFiles>

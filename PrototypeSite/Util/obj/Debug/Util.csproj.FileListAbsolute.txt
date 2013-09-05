@@ -1,0 +1,8 @@
+E:\Saturni\prototype\PrototypeSite\Util\bin\Debug\Util.dll
+E:\Saturni\prototype\PrototypeSite\Util\bin\Debug\Util.pdb
+E:\Saturni\prototype\PrototypeSite\Util\bin\Debug\log4net.dll
+E:\Saturni\prototype\PrototypeSite\Util\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Saturni\prototype\PrototypeSite\Util\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Saturni\prototype\PrototypeSite\Util\obj\Debug\ResolveAssemblyReference.cache
+E:\Saturni\prototype\PrototypeSite\Util\obj\Debug\Util.dll
+E:\Saturni\prototype\PrototypeSite\Util\obj\Debug\Util.pdb
